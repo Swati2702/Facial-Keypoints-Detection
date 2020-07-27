@@ -5,6 +5,6 @@ Kaggle Competition: https://www.kaggle.com/c/facial-keypoints-detection
 Kaggle Notebook: https://www.kaggle.com/swatisk2702/facial-keypoints-detection-swati/notebook
 
 # Approach:
-Used Tranfer Learning on Inception Model.
-Used MSE loss for Multi label classification and Adam optimizer.
+- Used Tranfer Learning on Inception Model.
+- Used MSE loss for Multi label classification and Adam optimizer.
 
